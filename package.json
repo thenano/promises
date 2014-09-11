@@ -1,0 +1,24 @@
+{
+  "name": "promises",
+  "version": "0.0.0",
+  "description": "Examples of how to use promises and some pitfalls",
+  "main": "promise-examples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenano/promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenano/promises/issues"
+  },
+  "homepage": "https://github.com/thenano/promises",
+  "devDependencies": {
+    "eyes": "~0.1.8",
+    "bluebird": "~2.3.2",
+    "better-console": "~0.2.3"
+  }
+}
