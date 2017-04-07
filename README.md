@@ -1,3 +1,5 @@
+# Promises Patterns & Anti-patterns
+
 * read through the [slides](Promises.pdf) to understand the terms used.
 
 Run `node` in a terminal.
